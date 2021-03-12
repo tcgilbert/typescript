@@ -8,6 +8,7 @@ let input = {
 };
 
 console.log(test(input));
+console.log("heyy");
 
 // function testTwo(num) {
 //     let copy = num;
